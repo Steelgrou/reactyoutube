@@ -1,0 +1,13 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 25px 100px 0 10px ;
+    
+}
+
+.sidebar a {
+    text-decoration: none;
+    padding-bottom: 10px;
+    
+   
+}
